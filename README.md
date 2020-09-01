@@ -28,7 +28,7 @@
 [<img align="left" alt="PyQt5" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/1200px-Qt_logo_2013.svg.png" />][jsplaylist]
 [<img align="left" alt="matplotlib " width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" />][reactplaylist]
 [<img align="left" alt="Telegram Bot API" width="26px" src="https://lh3.googleusercontent.com/proxy/rogpqMJcfuaJD2dsN3Y2VeAV_j4ngAk2mxvqHz_gzf1ufq34baKhi4v85dB1FoXgWn1IDPHssDH96f3uVRldlcEsPSm7N_6rOtErvzo" />][webdevplaylist]
-[<img align="left" alt="C++" width="23px" src="https://avatars3.githubusercontent.com/u/13841574?s=400&v=4" />][webdevplaylist]
+[<img align="left" alt="C++" width="26px" src="https://avatars3.githubusercontent.com/u/13841574?s=400&v=4" />][webdevplaylist]
 [<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />][webdevplaylist]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
 [<img align="left" alt="SQLite3" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/946338781551952108-512.png" />][webdevplaylist]
