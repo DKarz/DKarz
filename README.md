@@ -10,7 +10,6 @@
 - ⚡ INTERESTS: I love playing the guitar
 - ⚡ INTERESTS: I’m learning to draw
 
-
 ### Connect with me:
 
 [<img align="left" alt="My Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -22,6 +21,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/12785093741551942290-512.png" />][webdevplaylist]
+[<img align="left" alt="PyCharm" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/11951723851551942290-512.png" />][jsplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
