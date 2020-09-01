@@ -5,7 +5,7 @@
 ## I'm a Student, Developer, Mathematician, Programmer!
 
 - :mortar_board: I'm currently pursuing my Bachelor in Data Science and Business Analytics
-- :green_book: I’m currently learning everything :school_satchel:
+- :green_book:  I’m currently learning everything :school_satchel:
 - :guitar: I love playing the guitar
 - :pencil2: I’m learning to draw
 
