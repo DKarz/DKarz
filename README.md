@@ -22,6 +22,7 @@
 
 [<img align="left" alt="Python" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/12785093741551942290-512.png" />][webdevplaylist]
 [<img align="left" alt="PyCharm" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/11951723851551942290-512.png" />][jsplaylist]
+[<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Flask" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/608070591536298181-512.png" />][cssplaylist]
@@ -30,7 +31,6 @@
 [<img align="left" alt="Telegram Bot API" width="26px" src="https://lh3.googleusercontent.com/proxy/rogpqMJcfuaJD2dsN3Y2VeAV_j4ngAk2mxvqHz_gzf1ufq34baKhi4v85dB1FoXgWn1IDPHssDH96f3uVRldlcEsPSm7N_6rOtErvzo" />][webdevplaylist]
 [<img align="left" alt="C++" width="26px" src="https://avatars3.githubusercontent.com/u/13841574?s=400&v=4" />][webdevplaylist]
 [<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
 [<img align="left" alt="SQLite3" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/946338781551952108-512.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="Godot Engine" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1024px-Godot_icon.svg.png" />][webdevplaylist]
