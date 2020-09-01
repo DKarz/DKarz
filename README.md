@@ -7,7 +7,7 @@
 - 🔭 I'm currently pursuing my Bachelor in Data Science and Business Analytics
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ INTERESTS: I love playing the guitar
+- :guitar: INTERESTS: I love playing the guitar
 - ⚡ INTERESTS: I’m learning to draw
 
 ### Connect with me:
