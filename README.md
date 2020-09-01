@@ -25,7 +25,7 @@
 [<img align="left" alt="Flask" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/608070591536298181-512.png" />][cssplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="BootStarp" width="26px" src="https://camo.githubusercontent.com/0e0adf58c74c6e74bb64ece5d0ef4620f4f46915/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" />][cssplaylist]
+[<img align="left" alt="BootStarp" width="26px" src="https://www.kindpng.com/picc/m/27-278320_bootstrap-logo-logo-png-bootstrap-logo-transparent-png.png" />][cssplaylist]
 [<img align="left" alt="PyQt5" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/1200px-Qt_logo_2013.svg.png" />][jsplaylist]
 [<img align="left" alt="matplotlib " width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" />][reactplaylist]
 [<img align="left" alt="Telegram Bot API" width="26px" src="https://lh3.googleusercontent.com/proxy/rogpqMJcfuaJD2dsN3Y2VeAV_j4ngAk2mxvqHz_gzf1ufq34baKhi4v85dB1FoXgWn1IDPHssDH96f3uVRldlcEsPSm7N_6rOtErvzo" />][webdevplaylist]
