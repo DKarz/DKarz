@@ -4,6 +4,8 @@
 
 ## I'm a Student, Developer, Mathematician, Programmer!
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/dkarzboi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=dkarzboi)
+
 - :mortar_board:  I'm currently pursuing my Bachelor in Data Science and Business Analytics
 - :green_book:  I’m currently learning everything :school_satchel:
 - :guitar:  I love playing the guitar
