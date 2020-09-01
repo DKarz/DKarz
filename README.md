@@ -6,8 +6,8 @@
 
 - :mortar_board: I'm currently pursuing my Bachelor in Data Science and Business Analytics
 - :green_book: I’m currently learning everything :school_satchel:
-- :guitar: INTERESTS: I love playing the guitar
-- :pencil2: INTERESTS: I’m learning to draw
+- :guitar: I love playing the guitar
+- :pencil2: I’m learning to draw
 
 ### Connect with me:
 
