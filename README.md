@@ -1,6 +1,6 @@
 ### Hello, I'm Daniil. :wave:
 
-
+## Chief Research Officer @ [NeuroFinance](https://neurofinance.rf.gd/)
 
 ## I'm a Student, Developer, Mathematician, Programmer!
 
