@@ -2,7 +2,7 @@
 
 ## Ex-Chief Research Officer @ [NeuroFinance](https://neurofinance.rf.gd/)
 
-## I'm a Student, Scientist!
+## I'm a Student and Junior Researcher!
 
 
 
