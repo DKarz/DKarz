@@ -52,7 +52,7 @@
 
 [website]: https://dkarzwebsite.herokuapp.com
 [twitter]: https://twitter.com/dkarzboi
-[instagram]: https://www.instagram.com/karzden/?hl=en
+[instagram]: https://www.instagram.com/karzdani
 [webdevplaylist]: #
 [jsplaylist]: #
 [cssplaylist]: #
