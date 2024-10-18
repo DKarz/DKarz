@@ -2,7 +2,7 @@
 
 
 
-## I'm a Student and Junior Researcher!
+## I'm a Data Scientist!
 
 
 - :scientist: I'm working as a Data Scientist
