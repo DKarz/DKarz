@@ -1,16 +1,16 @@
 ### Hello, I'm Daniil. :wave:
 
-## Ex-Chief Research Officer @ [NeuroFinance](https://neurofinance.rf.gd/)
+
 
 ## I'm a Student and Junior Researcher!
 
 
-
-- :mortar_board:  I'm currently pursuing my Master's in Financial Engineering
-- :mortar_board:  I've done my Bachelor in Data Science and Business Analytics
+- :scientist: I'm working as a Data Scientist
+- :mortar_board:  I've just finished my Master's in Financial Engineering at EPFL
+- :mortar_board:  I've done my Bachelor's in Data Science and Business Analytics
 - :green_book:  I’m currently learning everything :school_satchel:
-- :guitar:  I love playing the guitar
-- :pencil2: I’m learning to draw
+- :microphone:  I do stand-up comedy
+- 🏋️‍♂️ I love doing sports
 
 ### Connect with me:
 
